@@ -1,7 +1,7 @@
 # Huatuo
 Huatuo is an analytical framework for systematically exploring genetic variation of gene regulation at cell-type and single-nucleotide resolutions. It integrates variant effect predictions in specific cellular context from deep learning-based models with expression quantitative trait loci from population-based association analyses, thus allowing us to disentangle causality for complicated genetic regulation and seek independent statistical support for de novo predictions of variant effects. As whole-genome sequencing datasets grow in volume, we expect Huatuo will have great promise for identifying contribution of noncoding variants to diseases, uncovering novel disease-causal genes and shedding light on the cellular process critical for disease progression.
 
-<div align=center> <img src="image/schematic-view_1.png" width="680" height="278"> </div> 
+<div align=center> <img src="image/Schematic_view_of_Huatuo.png" width="680" height="278"> </div> 
 
 <p align="center">Schematic view of Huatuo</p>  
 
