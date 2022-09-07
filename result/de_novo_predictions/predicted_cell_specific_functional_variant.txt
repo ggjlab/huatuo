@@ -1,0 +1,378 @@
+Acinar cell of pancrease	chr1_162381664_A_G_b38
+Acinar cell of pancrease	chr16_19517720_C_A_b38
+Acinar cell of pancrease	chr17_75878057_G_C_b38
+Acinar cell of pancrease	chr17_76641799_A_G_b38
+Acinar cell of pancrease	chr19_15934939_G_A_b38
+Acinar cell of pancrease	chr7_65021169_G_A_b38
+Alpha cell of pancrease	chr1_162381664_A_G_b38
+Alpha cell of pancrease	chr16_19517720_C_A_b38
+Alpha cell of pancrease	chr17_75878057_G_C_b38
+Alpha cell of pancrease	chr17_76641799_A_G_b38
+Alpha cell of pancrease	chr19_15934939_G_A_b38
+Alpha cell of pancrease	chr7_65021169_G_A_b38
+Antigen-presenting Epithelial cell	chr11_118690701_T_G_b38
+Antigen-presenting Epithelial cell	chr11_67488770_G_C_b38
+Antigen-presenting Epithelial cell	chr15_74379228_T_C_b38
+Antigen-presenting Epithelial cell	chr4_1329485_G_C_b38
+Antigen-presenting Epithelial cell	chr6_32861325_G_A_b38
+Antigen-presenting Epithelial cell	chr8_11862718_G_C_b38
+Antigen-presenting Epithelial cell	chr9_109025395_C_G_b38
+B cell	chr15_44726729_G_A_b38
+B cell	chr17_45908231_C_T_b38
+B cell	chr3_50606703_C_T_b38
+B cell	chr6_32604126_T_C_b38
+B cell	chr6_32604517_G_T_b38
+B cell	chr7_100473135_T_C_b38
+Basal cell	chr10_44911160_T_C_b38
+Basal cell	chr11_72042099_G_C_b38
+Basal cell	chr16_19517720_C_A_b38
+Basal cell	chr17_76641799_A_G_b38
+Basal cell	chr4_690053_G_A_b38
+Basal cell	chr6_29827179_G_T_b38
+Beta cell of pancrease	chr1_162381664_A_G_b38
+Beta cell of pancrease	chr16_19517720_C_A_b38
+Beta cell of pancrease	chr17_75878057_G_C_b38
+Beta cell of pancrease	chr17_76641799_A_G_b38
+Beta cell of pancrease	chr19_15934939_G_A_b38
+Beta cell of pancrease	chr7_65021169_G_A_b38
+Ciliated cell	chr1_162381664_A_G_b38
+Ciliated cell	chr10_44911160_T_C_b38
+Ciliated cell	chr16_19517720_C_A_b38
+Ciliated cell	chr17_45898051_G_A_b38
+Ciliated cell	chr17_74852661_C_G_b38
+Ciliated cell	chr19_15934939_G_A_b38
+Ciliated cell	chr3_39404095_C_A_b38
+Club cell	chr1_162381664_A_G_b38
+Club cell	chr10_44911160_T_C_b38
+Club cell	chr15_74379228_T_C_b38
+Club cell	chr16_19517720_C_A_b38
+Club cell	chr17_74852661_C_G_b38
+Club cell	chr19_15934939_G_A_b38
+Club cell	chr3_39404095_C_A_b38
+Conventional dendritic cell	chr2_102436356_C_A_b38
+Conventional dendritic cell	chr2_71064870_A_C_b38
+Conventional dendritic cell	chr21_44362591_T_C_b38
+Conventional dendritic cell	chr4_119615703_T_C_b38
+Conventional dendritic cell	chr6_29811861_C_A_b38
+Conventional dendritic cell	chr6_29814066_G_A_b38
+Conventional dendritic cell	chr8_11862718_G_C_b38
+Conventional dendritic cell	chr9_109025395_C_G_b38
+Distal tubule cell	chr10_44911160_T_C_b38
+Distal tubule cell	chr17_74852661_C_G_b38
+Distal tubule cell	chr17_76641799_A_G_b38
+Distal tubule cell	chr19_15934939_G_A_b38
+Distal tubule cell	chr7_65021169_G_A_b38
+Ductal cell	chr1_162381664_A_G_b38
+Ductal cell	chr10_44911160_T_C_b38
+Ductal cell	chr16_19517720_C_A_b38
+Ductal cell	chr17_76641799_A_G_b38
+Ductal cell	chr19_15934939_G_A_b38
+Ductal cell	chr7_65021169_G_A_b38
+Endometrial cell	chr1_162381664_A_G_b38
+Endometrial cell	chr1_32173070_G_A_b38
+Endometrial cell	chr13_49806268_G_A_b38
+Endometrial cell	chr14_69465026_T_C_b38
+Endometrial cell	chr19_57589942_T_C_b38
+Endometrial cell	chr3_130127255_C_T_b38
+Endometrial cell	chr3_69033722_G_T_b38
+Endometrial cell	chr6_29992966_G_A_b38
+Endothelial cell	chr1_16018169_G_A_b38
+Endothelial cell	chr11_61151673_T_C_b38
+Endothelial cell	chr13_52725487_A_C_b38
+Endothelial cell	chr16_75248349_A_G_b38
+Endothelial cell	chr17_45898051_G_A_b38
+Endothelial cell	chr6_29827179_G_T_b38
+Endothelial cell	chr7_101352351_A_G_b38
+Enterocyte	chr1_162381664_A_G_b38
+Enterocyte	chr10_44911160_T_C_b38
+Enterocyte	chr16_1828976_G_A_b38
+Enterocyte	chr16_19517720_C_A_b38
+Enterocyte	chr17_76641799_A_G_b38
+Enterocyte	chr19_15934939_G_A_b38
+Enterocyte	chr3_39404095_C_A_b38
+Enterocyte	chr7_65021169_G_A_b38
+Epithelial cell	chr1_162381664_A_G_b38
+Epithelial cell	chr1_32173070_G_A_b38
+Epithelial cell	chr13_49806268_G_A_b38
+Epithelial cell	chr15_74379228_T_C_b38
+Epithelial cell	chr16_19517720_C_A_b38
+Epithelial cell	chr17_76641799_A_G_b38
+Epithelial cell	chr19_15934939_G_A_b38
+Epithelial cell	chr3_39404095_C_A_b38
+Erythroid cell	chr1_161545536_C_T_b38
+Erythroid cell	chr17_75273177_G_C_b38
+Erythroid cell	chr17_75878057_G_C_b38
+Erythroid cell	chr18_49488950_G_A_b38
+Erythroid cell	chr3_50606703_C_T_b38
+Erythroid cell	chr6_30686754_G_C_b38
+Erythroid cell	chr7_43729550_G_T_b38
+Esophageal smooth muscle cell	chr1_16018169_G_A_b38
+Esophageal smooth muscle cell	chr10_73111095_T_G_b38
+Esophageal smooth muscle cell	chr11_47767530_T_G_b38
+Esophageal smooth muscle cell	chr12_57138966_G_C_b38
+Esophageal smooth muscle cell	chr16_75248349_A_G_b38
+Esophageal smooth muscle cell	chr2_218607602_G_A_b38
+Esophageal smooth muscle cell	chr6_29827179_G_T_b38
+Esophageal smooth muscle cell	chr6_29992966_G_A_b38
+Exocrine cell of pancrease	chr1_162381664_A_G_b38
+Exocrine cell of pancrease	chr16_19517720_C_A_b38
+Exocrine cell of pancrease	chr17_75878057_G_C_b38
+Exocrine cell of pancrease	chr17_76641799_A_G_b38
+Exocrine cell of pancrease	chr19_15934939_G_A_b38
+Exocrine cell of pancrease	chr7_65021169_G_A_b38
+Fast skeletal muscle cell	chr12_57138966_G_C_b38
+Fast skeletal muscle cell	chr13_52725487_A_C_b38
+Fast skeletal muscle cell	chr16_627020_G_T_b38
+Fast skeletal muscle cell	chr16_75248349_A_G_b38
+Fast skeletal muscle cell	chr2_238235665_A_G_b38
+Fast skeletal muscle cell	chr3_52240726_A_C_b38
+Fast skeletal muscle cell	chr6_29954986_G_C_b38
+Fast skeletal muscle cell	chr7_101352351_A_G_b38
+Fibroblast	chr1_16018169_G_A_b38
+Fibroblast	chr1_170067662_A_C_b38
+Fibroblast	chr1_32173070_G_A_b38
+Fibroblast	chr10_73111096_A_C_b38
+Fibroblast	chr14_69465026_T_C_b38
+Fibroblast	chr2_218607602_G_A_b38
+Fibroblast	chr20_45818004_C_A_b38
+Fibroblast	chr3_69033722_G_T_b38
+Gastric chief cell	chr10_44911160_T_C_b38
+Gastric chief cell	chr17_45898051_G_A_b38
+Gastric chief cell	chr17_74852661_C_G_b38
+Gastric chief cell	chr17_75878057_G_C_b38
+Gastric chief cell	chr17_76641799_A_G_b38
+Gastric chief cell	chr19_15934939_G_A_b38
+Gastric chief cell	chr7_65021169_G_A_b38
+Gastric parietal cell	chr10_44911160_T_C_b38
+Gastric parietal cell	chr16_1828976_G_A_b38
+Gastric parietal cell	chr16_19517720_C_A_b38
+Gastric parietal cell	chr17_75878057_G_C_b38
+Gastric parietal cell	chr17_76641799_A_G_b38
+Gastric parietal cell	chr19_15934939_G_A_b38
+Gastric parietal cell	chr3_39404095_C_A_b38
+Gastric parietal cell	chr7_65021169_G_A_b38
+Gastrointestinal smooth muscle cell	chr15_74379228_T_C_b38
+Gastrointestinal smooth muscle cell	chr16_19517720_C_A_b38
+Gastrointestinal smooth muscle cell	chr17_75878057_G_C_b38
+Gastrointestinal smooth muscle cell	chr17_76641799_A_G_b38
+Gastrointestinal smooth muscle cell	chr19_15934939_G_A_b38
+Gastrointestinal smooth muscle cell	chr7_65021169_G_A_b38
+Granulocyte	chr2_102436356_C_A_b38
+Granulocyte	chr21_44362591_T_C_b38
+Granulocyte	chr3_48307074_A_C_b38
+Granulocyte	chr4_119615703_T_C_b38
+Granulocyte	chr6_29811861_C_A_b38
+Granulocyte	chr7_149182859_C_A_b38
+Granulocyte	chr7_151441618_T_C_b38
+Hepatocyte	chr15_44726729_G_A_b38
+Hepatocyte	chr16_1828976_G_A_b38
+Hepatocyte	chr17_76641799_A_G_b38
+Hepatocyte	chr21_44362591_T_C_b38
+Hepatocyte	chr7_65021169_G_A_b38
+Hepatocyte	chr8_11862718_G_C_b38
+Immune cell	chr14_23399864_T_C_b38
+Immune cell	chr15_44726729_G_A_b38
+Immune cell	chr15_74379228_T_C_b38
+Immune cell	chr17_41777825_T_G_b38
+Immune cell	chr17_75878057_G_C_b38
+Immune cell	chr7_43729550_G_T_b38
+Immune cell	chr8_11862718_G_C_b38
+Immune cell	chr8_143354933_G_T_b38
+Intercalated cell	chr10_73111096_A_C_b38
+Intercalated cell	chr16_19517720_C_A_b38
+Intercalated cell	chr17_76641799_A_G_b38
+Intercalated cell	chr19_15934939_G_A_b38
+Intercalated cell	chr7_65021169_G_A_b38
+Intra-adrenal chromoblast	chr1_16018169_G_A_b38
+Intra-adrenal chromoblast	chr10_73111095_T_G_b38
+Intra-adrenal chromoblast	chr11_47767530_T_G_b38
+Intra-adrenal chromoblast	chr17_74852661_C_G_b38
+Intra-adrenal chromoblast	chr6_29827179_G_T_b38
+Intra-adrenal chromoblast	chr7_43729550_G_T_b38
+Kerationcyte	chr1_162381664_A_G_b38
+Kerationcyte	chr13_49806268_G_A_b38
+Kerationcyte	chr15_74379228_T_C_b38
+Kerationcyte	chr19_15934939_G_A_b38
+Kerationcyte	chr3_130127255_C_T_b38
+Kerationcyte	chr3_39404095_C_A_b38
+Kerationcyte	chr6_29992966_G_A_b38
+Kuppfer Cell	chr17_41777825_T_G_b38
+Kuppfer Cell	chr17_47695566_T_C_b38
+Kuppfer Cell	chr2_102436356_C_A_b38
+Kuppfer Cell	chr21_44362591_T_C_b38
+Kuppfer Cell	chr7_149182859_C_A_b38
+Kuppfer Cell	chr7_43729550_G_T_b38
+Kuppfer Cell	chr8_143354933_G_T_b38
+Kuppfer Cell	chr9_109025395_C_G_b38
+Loop of henle	chr10_44911160_T_C_b38
+Loop of henle	chr10_73111096_A_C_b38
+Loop of henle	chr17_74852661_C_G_b38
+Loop of henle	chr17_76641799_A_G_b38
+Loop of henle	chr7_65021169_G_A_b38
+Luminal cell	chr1_162381664_A_G_b38
+Luminal cell	chr13_49806268_G_A_b38
+Luminal cell	chr15_74379228_T_C_b38
+Luminal cell	chr16_19517720_C_A_b38
+Luminal cell	chr17_76641799_A_G_b38
+Luminal cell	chr19_15934939_G_A_b38
+Luminal cell	chr3_39404095_C_A_b38
+Mast cell	chr1_162381664_A_G_b38
+Mast cell	chr10_44911160_T_C_b38
+Mast cell	chr10_73111096_A_C_b38
+Mast cell	chr14_69465026_T_C_b38
+Mast cell	chr16_19517720_C_A_b38
+Mast cell	chr17_45898051_G_A_b38
+Mast cell	chr17_74852661_C_G_b38
+Mast cell	chr3_69033722_G_T_b38
+Monocyte	chr2_102436356_C_A_b38
+Monocyte	chr2_71064870_A_C_b38
+Monocyte	chr21_44362591_T_C_b38
+Monocyte	chr4_119615703_T_C_b38
+Monocyte	chr6_29811861_C_A_b38
+Monocyte	chr6_29814066_G_A_b38
+Monocyte	chr7_149182859_C_A_b38
+Monocyte	chr9_109025395_C_G_b38
+Muscle progenitor cell	chr1_16018169_G_A_b38
+Muscle progenitor cell	chr12_57138966_G_C_b38
+Muscle progenitor cell	chr16_627020_G_T_b38
+Muscle progenitor cell	chr16_75248349_A_G_b38
+Muscle progenitor cell	chr2_238235665_A_G_b38
+Muscle progenitor cell	chr3_52240726_A_C_b38
+Muscle progenitor cell	chr6_29954986_G_C_b38
+Muscle progenitor cell	chr7_101352351_A_G_b38
+Myeloid progenitor cell	chr17_35428395_G_A_b38
+Myeloid progenitor cell	chr17_45908231_C_T_b38
+Myeloid progenitor cell	chr17_75273177_G_C_b38
+Myeloid progenitor cell	chr18_49488950_G_A_b38
+Myeloid progenitor cell	chr3_50606703_C_T_b38
+Myeloid progenitor cell	chr6_30686754_G_C_b38
+Myeloid progenitor cell	chr6_32604126_T_C_b38
+Myeloid progenitor cell	chr6_32604517_G_T_b38
+Myofibroblast	chr1_16018169_G_A_b38
+Myofibroblast	chr12_57138966_G_C_b38
+Myofibroblast	chr2_238235665_A_G_b38
+Myofibroblast	chr3_130127255_C_T_b38
+Myofibroblast	chr3_52240726_A_C_b38
+Myofibroblast	chr6_29954986_G_C_b38
+Myofibroblast	chr6_29992966_G_A_b38
+Myofibroblast	chr7_101352351_A_G_b38
+Neurocyte	chr17_45898051_G_A_b38
+Neurocyte	chr17_74852661_C_G_b38
+Neuroendocrine cell	chr10_44911160_T_C_b38
+Neuroendocrine cell	chr17_74852661_C_G_b38
+Neuroendocrine cell	chr17_75878057_G_C_b38
+Neuroendocrine cell	chr17_76641799_A_G_b38
+Neuroendocrine cell	chr19_15934939_G_A_b38
+Neuroendocrine cell	chr7_65021169_G_A_b38
+NK cell	chr14_23399864_T_C_b38
+NK cell	chr2_71064870_A_C_b38
+NK cell	chr21_44362591_T_C_b38
+NK cell	chr21_44875435_T_C_b38
+NK cell	chr4_690053_G_A_b38
+NK cell	chr6_29814066_G_A_b38
+NK cell	chr6_29976634_G_T_b38
+NK cell	chr8_11862718_G_C_b38
+Oligodendrocyte	chr17_74852661_C_G_b38
+Oligodendrocyte	chr21_32392008_A_C_b38
+Oligodendrocyte	chr4_690053_G_A_b38
+Paneth cell	chr1_162381664_A_G_b38
+Paneth cell	chr16_19517720_C_A_b38
+Paneth cell	chr17_76641799_A_G_b38
+Paneth cell	chr19_15934939_G_A_b38
+Paneth cell	chr7_65021169_G_A_b38
+Pericyte	chr11_61151673_T_C_b38
+Pericyte	chr17_43917426_C_T_b38
+Pericyte	chr17_45898051_G_A_b38
+Pericyte	chr17_74852661_C_G_b38
+Pit cell	chr10_44911160_T_C_b38
+Pit cell	chr16_1828976_G_A_b38
+Pit cell	chr17_45898051_G_A_b38
+Pit cell	chr17_74852661_C_G_b38
+Pit cell	chr17_76641799_A_G_b38
+Pit cell	chr21_32392008_A_C_b38
+Pit cell	chr3_39404095_C_A_b38
+Pit cell	chr7_65021169_G_A_b38
+Plasmacytoid dendritic cell	chr11_72042099_G_C_b38
+Plasmacytoid dendritic cell	chr15_74379228_T_C_b38
+Plasmacytoid dendritic cell	chr17_43917426_C_T_b38
+Plasmacytoid dendritic cell	chr21_44875435_T_C_b38
+Plasmacytoid dendritic cell	chr4_119615703_T_C_b38
+Plasmacytoid dendritic cell	chr4_690053_G_A_b38
+Plasmacytoid dendritic cell	chr6_32861325_G_A_b38
+Plasmacytoid dendritic cell	chr9_109025395_C_G_b38
+Pneumocytes	chr1_162381664_A_G_b38
+Pneumocytes	chr10_44911160_T_C_b38
+Pneumocytes	chr16_19517720_C_A_b38
+Pneumocytes	chr17_43917426_C_T_b38
+Pneumocytes	chr17_76641799_A_G_b38
+Pneumocytes	chr19_15934939_G_A_b38
+Pneumocytes	chr21_44875435_T_C_b38
+Principle cell	chr10_73111096_A_C_b38
+Principle cell	chr17_76641799_A_G_b38
+Principle cell	chr22_19121035_T_C_b38
+Principle cell	chr6_29827179_G_T_b38
+Principle cell	chr7_65021169_G_A_b38
+Proliferating cell	chr11_118690701_T_G_b38
+Proliferating cell	chr11_65170212_C_T_b38
+Proliferating cell	chr2_102436356_C_A_b38
+Proliferating cell	chr2_71064870_A_C_b38
+Proliferating cell	chr4_119615703_T_C_b38
+Proliferating cell	chr4_690053_G_A_b38
+Proliferating cell	chr6_29811861_C_A_b38
+Proliferating cell	chr8_143354933_G_T_b38
+Proximal tubule cell	chr10_73111096_A_C_b38
+Proximal tubule cell	chr16_19517720_C_A_b38
+Proximal tubule cell	chr17_45898051_G_A_b38
+Proximal tubule cell	chr17_74852661_C_G_b38
+Proximal tubule cell	chr17_76641799_A_G_b38
+Proximal tubule cell	chr6_29827179_G_T_b38
+Smooth muscle cell(general)	chr12_57138966_G_C_b38
+Smooth muscle cell(general)	chr16_627020_G_T_b38
+Smooth muscle cell(general)	chr17_45898051_G_A_b38
+Smooth muscle cell(general)	chr17_74852661_C_G_b38
+Smooth muscle cell(general)	chr2_218607602_G_A_b38
+Smooth muscle cell(general)	chr6_29827179_G_T_b38
+Smooth muscle cell(general)	chr6_42200232_T_C_b38
+Stromal cell	chr1_16018169_G_A_b38
+Stromal cell	chr1_162381664_A_G_b38
+Stromal cell	chr1_170067662_A_C_b38
+Stromal cell	chr10_73111096_A_C_b38
+Stromal cell	chr14_69465026_T_C_b38
+Stromal cell	chr2_218607602_G_A_b38
+Stromal cell	chr20_45818004_C_A_b38
+Stromal cell	chr3_69033722_G_T_b38
+T cell	chr11_118690701_T_G_b38
+T cell	chr17_43917426_C_T_b38
+T cell	chr3_50606703_C_T_b38
+T cell	chr6_29811861_C_A_b38
+T cell	chr7_100473135_T_C_b38
+T cell	chr7_151441618_T_C_b38
+Thyroid follicular cell	chr10_44911160_T_C_b38
+Thyroid follicular cell	chr10_73111095_T_G_b38
+Thyroid follicular cell	chr10_73111096_A_C_b38
+Thyroid follicular cell	chr11_47767530_T_G_b38
+Thyroid follicular cell	chr17_45898051_G_A_b38
+Thyroid follicular cell	chr17_74852661_C_G_b38
+Thyroid follicular cell	chr21_32392008_A_C_b38
+Thyroid follicular cell	chr6_29827179_G_T_b38
+Vascular smooth muscle cell	chr12_57138966_G_C_b38
+Vascular smooth muscle cell	chr16_75248349_A_G_b38
+Vascular smooth muscle cell	chr2_238235665_A_G_b38
+Vascular smooth muscle cell	chr3_52240726_A_C_b38
+Vascular smooth muscle cell	chr6_29827179_G_T_b38
+Vascular smooth muscle cell	chr6_29954986_G_C_b38
+Vascular smooth muscle cell	chr6_29992966_G_A_b38
+Vascular smooth muscle cell	chr7_101352351_A_G_b38
+Ventricle cardiomyocyte	chr1_170067662_A_C_b38
+Ventricle cardiomyocyte	chr11_61151673_T_C_b38
+Ventricle cardiomyocyte	chr13_52725487_A_C_b38
+Ventricle cardiomyocyte	chr16_75248349_A_G_b38
+Ventricle cardiomyocyte	chr2_238235665_A_G_b38
+Ventricle cardiomyocyte	chr2_71064870_A_C_b38
+Ventricle cardiomyocyte	chr3_52240726_A_C_b38
+Ventricle cardiomyocyte	chr5_177545619_C_T_b38
+Zona fasciculata cell	chr10_73111095_T_G_b38
+Zona fasciculata cell	chr11_47767530_T_G_b38
+Zona fasciculata cell	chr17_74852661_C_G_b38
+Zona fasciculata cell	chr6_29827179_G_T_b38
+Zona fasciculata cell	chr7_43729550_G_T_b38

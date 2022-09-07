@@ -1,0 +1,328 @@
+Acinar cell_CPA1 high(AdultPancreas4)	Acinar cell of pancrease
+Acinar cell_REG1B high(AdultPancreas0)	Acinar cell of pancrease
+Acinar cell_REG1B high(AdultPancreas2)	Acinar cell of pancrease
+Activated T cell(AdultLiver1)	T cell
+Activated T cell(AdultLiver5)	T cell
+Activated T cell(AdultLiver7)	T cell
+Alpha cell(AdultPancreas10)	Alpha cell of pancrease
+Alveolar bipotent/intermediate cell(AdultLung17)	Pneumocytes
+Antigen-presenting cell(AdultEsophagus12)	Antigen-presenting Epithelial cell
+Astrocyte(AdultCerebellum17)	Neurocyte
+Astrocyte(Bergmann glia)(AdultCerebellum2)	Neurocyte
+Astrocyte(Bergmann glia)(AdultCerebellum4)	Neurocyte
+AT1 cell (AdultLung12)	Pneumocytes
+AT2 cell(AdultLung1)	Pneumocytes
+AT2 cell(AdultLung2)	Pneumocytes
+B cell (centrocyte)(AdultSpleenParenchyma10)	B cell
+B cell (Plasmocyte)_IGHA/HG high(AdultStomach11)	B cell
+B cell (Plasmocyte)_IGHA/HM_IGK high(AdultLiver14)	B cell
+B cell (Plasmocyte)_IGHA/HM_IGL high(AdultLiver15)	B cell
+B cell (Plasmocyte)_IGHG high(AdultArtery12)	B cell
+B cell (Plasmocyte)_IGHG_IGK high(AdultLiver13)	B cell
+B cell (Plasmocyte)_IGHG_IGK high(AdultSpleenParenchyma0)	B cell
+B cell (Plasmocyte)_IGHG_IGK high(AdultSpleenParenchyma1)	B cell
+B cell (Plasmocyte)_IGHG_IGK high(AdultSpleenParenchyma13)	B cell
+B cell (Plasmocyte)_IGHG_IGK high(AdultSpleenParenchyma4)	B cell
+B cell (Plasmocyte)_IGHG_IGK high(AdultSpleenParenchyma5)	B cell
+B cell (Plasmocyte)_IGHG_IGK high(AdultSpleenParenchyma8)	B cell
+B cell (Plasmocyte)_IGHG_IGL high(AdultSpleenParenchyma12)	B cell
+B cell (Plasmocyte)_IGHG_IGL high(AdultSpleenParenchyma2)	B cell
+B cell (Plasmocyte)_IGHG/HA high(AdultIleum6)	B cell
+B cell (Plasmocyte)(AdultAdrenalGland15)	B cell
+B cell (Plasmocyte)(AdultMuscle15)	B cell
+B cell (Plasmocyte)(AdultOmentum16)	B cell
+B cell (Plasmocyte)(AdultSigmoidColon6)	B cell
+B cell (Plasmocyte)(AdultThyroid9)	B cell
+B cell_IGLC2 high(AdultPeripheralBlood9)	B cell
+B cell_JCHAIN high(AdultEsophagus15)	B cell
+B cell(AdultCerebellum23)	B cell
+B cell(AdultEsophagus9)	B cell
+B cell(AdultLung16)	B cell
+B cell(AdultThyroid6)	B cell
+B cell(Centrocyte)(AdultPeripheralBlood12)	B cell
+B cell(plasmocyte)_IGHG3 high(AdultStomach19)	B cell
+B cell(Plasmocyte)_IGKC high(AdultTransverseColon0)	B cell
+B cell(Plasmocyte)_IGKC high(AdultTransverseColon3)	B cell
+B cell(Plasmocyte)_IGLC3 high(AdultTransverseColon1)	B cell
+B cell(Plasmocyte)(AdultKidney24)	B cell
+B cell(Plasmocyte)(AdultTransverseColon11)	B cell
+Basal  cell(AdultArtery16)	Basal cell
+Basal/Epithelial cell(AdultLung18)	Basal cell
+Beta cell(AdultPancreas11)	Beta cell of pancrease
+CD8 T cell(AdultAdrenalGland10)	T cell
+CD8 T cell(AdultStomach12)	T cell
+CD8+ T cell(AdultPeripheralBlood2)	T cell
+Chromaffin cell(AdultStomach6)	Neuroendocrine cell
+Ciliated cell(AdultLung23)	Ciliated cell
+Club cell(AdultLung15)	Club cell
+Conventional dendritic cell_IL8 high(AdultMuscle6)	Conventional dendritic cell
+Conventional dendritic cell(AdultIleum5)	Conventional dendritic cell
+Conventional dendritic cell(AdultLiver4)	Conventional dendritic cell
+Conventional dendritic cell(AdultThyroid18)	Conventional dendritic cell
+Conventional dendritic cell(AdultThyroid8)	Conventional dendritic cell
+D cell/ X/A cell(AdultStomach14)	Neuroendocrine cell
+Dendritic cell_FCER1A high(AdultPeripheralBlood4)	Conventional dendritic cell
+Dendritic cell(AdultOmentum10)	Conventional dendritic cell
+Distal tubule cell_SLC12A3 high(AdultKidney17)	Distal tubule cell
+Ductal cell(AdultPancreas5)	Ductal cell
+Endometrial cell(AdultUterus10)	Endometrial cell
+Endothelial cell_ACKR1 high(AdultEsophagus6)	Endothelial cell
+Endothelial cell_CCL2 high(AdultAdrenalGland5)	Endothelial cell
+Endothelial cell_CCL21 high(AdultEsophagus17)	Endothelial cell
+Endothelial cell_CCL21 high(AdultStomach20)	Endothelial cell
+Endothelial cell_COL15A1 high(AdultUterus0)	Endothelial cell
+Endothelial cell_ESM1 high(AdultUterus3)	Endothelial cell
+Endothelial cell_FABP4 high(AdultThyroid20)	Endothelial cell
+Endothelial cell_FABP4 high(AdultUterus12)	Endothelial cell
+Endothelial cell_IGFBP3 high(AdultEsophagus18)	Endothelial cell
+Endothelial cell_IGFBP5 high(AdultKidney21)	Endothelial cell
+Endothelial cell_IL6 high(AdultUterus1)	Endothelial cell
+Endothelial cell_IL6 high(AdultUterus5)	Endothelial cell
+Endothelial cell_PODXL high(AdultMuscle7)	Endothelial cell
+Endothelial cell_SELE high(AdultArtery2)	Endothelial cell
+Endothelial cell_SELE high(AdultLung5)	Endothelial cell
+Endothelial cell_SELE high(AdultStomach16)	Endothelial cell
+Endothelial cell_SOCS3 high(AdultUterus4)	Endothelial cell
+Endothelial cell_TMEM100 high(AdultLung4)	Endothelial cell
+Endothelial cell_VWF high(AdultArtery6)	Endothelial cell
+Endothelial cell_VWF high(AdultLung10)	Endothelial cell
+Endothelial cell_VWF high(AdultThyroid16)	Endothelial cell
+Endothelial cell(AdultAdrenalGland13)	Endothelial cell
+Endothelial cell(AdultCerebellum13)	Endothelial cell
+Endothelial cell(AdultHeart4)	Endothelial cell
+Endothelial cell(AdultIleum2)	Endothelial cell
+Endothelial cell(AdultPancreas9)	Endothelial cell
+Endothelial cell(AdultProstate6)	Endothelial cell
+Endothelial cell(AdultSpleenParenchyma3)	Endothelial cell
+Endothelial cell(AdultThyroid10)	Endothelial cell
+Endothelial cell(AdultTransverseColon16)	Endothelial cell
+Endothelial progenitor cell(AdultIleum7)	Endothelial cell
+Enteric nerval cell(AdultSigmoidColon8)	Neurocyte
+Enterocyte progenitor_REG1A high(AdultIleum1)	Enterocyte
+Enterocyte progenitor_REG1A high(AdultIleum13)	Enterocyte
+Enterocyte progenitor(AdultSigmoidColon5)	Enterocyte
+Enterocyte progenitor(AdultTransverseColon5)	Enterocyte
+Enterocyte progenitor(AdultTransverseColon8)	Enterocyte
+Enterocyte_BEST4 high(AdultTransverseColon10)	Enterocyte
+Enterocyte_CA1 high(AdultTransverseColon7)	Enterocyte
+Enterocyte_CA7 high(AdultSigmoidColon10)	Enterocyte
+Enterocyte_SLC26A3 high(AdultTransverseColon6)	Enterocyte
+Enterocyte(AdultIleum0)	Enterocyte
+Enterocyte(AdultSigmoidColon0)	Enterocyte
+Enterocyte(AdultSigmoidColon1)	Enterocyte
+Enterocyte(AdultSigmoidColon3)	Enterocyte
+Epithelial cell_HP high(AdultStomach2)	Epithelial cell
+Epithelial cell_KRT14 high(AdultEsophagus5)	Epithelial cell
+Epithelial cell_KRT17 high(AdultEsophagus16)	Epithelial cell
+Epithelial cell_KRT4 high(AdultEsophagus2)	Epithelial cell
+Epithelial cell_KRT7 high(AdultEsophagus7)	Epithelial cell
+Epithelial cell_PLA2G2A high(AdultLung22)	Epithelial cell
+Epithelial cell_TM4SF4 high(AdultLiver8)	Epithelial cell
+Epithelial cell(AdultArtery15)	Epithelial cell
+Epithelial cell(AdultCerebellum26)	Epithelial cell
+Epithelial cell(AdultStomach8)	Epithelial cell
+Erythroid cell(AdultPeripheralBlood15)	Erythroid cell
+Erythroid cell(AdultSpleenParenchyma14)	Erythroid cell
+Exocrine cell(AdultPancreas1)	Exocrine cell of pancrease
+Exocrine cell(AdultPancreas3)	Exocrine cell of pancrease
+Fast skeletal muscle cell(AdultMuscle8)	Fast skeletal muscle cell
+Fenestrated endothelial cell_SELE high(AdultKidney13)	Endothelial cell
+Fenestrated endothelial cell_SELE high(AdultKidney7)	Endothelial cell
+Fibroblast_ CXCL12 high(AdultArtery1)	Fibroblast
+Fibroblast_ CXCL12 high(AdultArtery3)	Fibroblast
+Fibroblast_A2M high(AdultLung8)	Fibroblast
+Fibroblast_APOD high(AdultArtery14)	Fibroblast
+Fibroblast_APOD high(AdultMuscle4)	Fibroblast
+Fibroblast_PENK high(AdultMuscle13)	Fibroblast
+Fibroblast(AdultHeart0)	Fibroblast
+Fibroblast(AdultIleum3)	Fibroblast
+Fibroblast(AdultLung11)	Fibroblast
+Fibroblast(AdultPancreas12)	Fibroblast
+Fibroblast(AdultThyroid12)	Fibroblast
+Fibroblast(AdultTransverseColon14)	Fibroblast
+Fibroblast(AdultUterus8)	Fibroblast
+Gastric chief cell_CHIA high(AdultStomach9)	Gastric chief cell
+Gastric chief cell(AdultStomach3)	Gastric chief cell
+Glomerular endothelial cell_AQP1 high(AdultKidney20)	Endothelial cell
+Goblet cell_FCGBP high(AdultTransverseColon2)	Enterocyte
+Goblet cell_PIGR high(AdultTransverseColon4)	Enterocyte
+Goblet cell(AdultEsophagus13)	Enterocyte
+Goblet cell(AdultIleum10)	Enterocyte
+Granulocyte(AdultStomach13)	Immune cell
+Hepatocyte_FGB high(AdultLiver18)	Hepatocyte
+Hepatocyte(AdultLiver12)	Hepatocyte
+Inflammatory cell(AdultStomach17)	Immune cell
+Intercalated cell(AdultKidney19)	Intercalated cell
+Intercalated cell(AdultKidney23)	Intercalated cell
+Intercalated cell(AdultKidney5)	Intercalated cell
+Interneuron(AdultCerebellum16)	Neurocyte
+Intra-adrenal chromoblast(AdultAdrenalGland0)	Intra-adrenal chromoblast
+Intra-adrenal chromoblast(AdultAdrenalGland6)	Intra-adrenal chromoblast
+Kerationcyte(AdultEsophagus11)	Kerationcyte
+Kuppfer Cell(AdultLiver0)	Kuppfer Cell
+Loop of henle _ANXA1 high(AdultKidney11)	Loop of henle
+Loop of henle_SOD3 high(AdultKidney18)	Loop of henle
+Loop of henle_SPP1 high(AdultKidney2)	Loop of henle
+Loop of Henle(Thick ascending limb)(AdultKidney9)	Loop of henle
+Luminal cell(AdultProstate4)	Luminal cell
+lymphatic endothelial cell(AdultAdrenalGland21)	Endothelial cell
+Lymphatic endothelial cell(AdultLung21)	Endothelial cell
+Lymphocyte(AdultAdrenalGland18)	Immune cell
+M1 Macrophage(AdultArtery5)	Monocyte
+M1 Macrophage(AdultHeart9)	Monocyte
+M1 Macrophage(AdultProstate5)	Monocyte
+M1 Macrophage(AdultUterus11)	Monocyte
+M2 macrophage (AdultLung0)	Monocyte
+M2 macrophage_CXCL8 high(AdultSpleenParenchyma7)	Monocyte
+M2 Macrophage(AdultHeart3)	Monocyte
+M2 Macrophage(AdultMuscle10)	Monocyte
+M2 Macrophage(AdultOmentum7)	Monocyte
+M2 Macrophage(AdultPancreas8)	Monocyte
+Macrophage_M2(AdultLung9)	Monocyte
+Macrophage_RGS1 high(AdultEsophagus4)	Monocyte
+Macrophage(AdultAdrenalGland12)	Monocyte
+Macrophage(AdultArtery11)	Monocyte
+Macrophage(AdultArtery4)	Monocyte
+Macrophage(AdultCerebellum20)	Monocyte
+Macrophage(AdultCerebellum22)	Monocyte
+Macrophage(AdultCerebellum24)	Monocyte
+Macrophage(AdultCerebellum5)	Monocyte
+Macrophage(AdultHeart2)	Monocyte
+Macrophage(AdultIleum15)	Monocyte
+Macrophage(AdultKidney3)	Monocyte
+Macrophage(AdultPeripheralBlood5)	Monocyte
+Macrophage(AdultStomach7)	Monocyte
+Macrophage(AdultTransverseColon9)	Monocyte
+Mast cell(AdultArtery13)	Mast cell
+Mast cell(AdultEsophagus14)	Mast cell
+Mast cell(AdultIleum11)	Mast cell
+Mast cell(AdultKidney25)	Mast cell
+Mast cell(AdultLung13)	Mast cell
+Mast cell(AdultMuscle11)	Mast cell
+Mast cell(AdultOmentum15)	Mast cell
+Mast cell(AdultSigmoidColon9)	Mast cell
+Mast cell(AdultTransverseColon13)	Mast cell
+Mast cell(AdultUterus13)	Mast cell
+Mast(AdultStomach18)	Mast cell
+Mesothelial cell(AdultOmentum1)	Stromal cell
+Mesothelial cell(AdultOmentum2)	Stromal cell
+Mesothelial cell(AdultOmentum4)	Stromal cell
+Microvascular endothelial cell(AdultOmentum14)	Endothelial cell
+Monocyte_ISG15 high(AdultPeripheralBlood11)	Monocyte
+Monocyte_S100A12 high(AdultPeripheralBlood0)	Monocyte
+Monocyte(AdultLung20)	Monocyte
+Monocyte(AdultPeripheralBlood1)	Monocyte
+MT high(AdultAdrenalGland1)	unknown
+Mucosal aquamous Epithelial cell(AdultEsophagus10)	Epithelial cell
+Muscle progenitor cell(AdultMuscle0)	Muscle progenitor cell
+Myeloid cell(AdultAdrenalGland14)	Immune cell
+Myeloid cell(AdultLiver3)	Immune cell
+Myeloid progenitor cell(AdultPeripheralBlood14)	Myeloid progenitor cell
+Myofibroblast_POSTN high(AdultArtery9)	Myofibroblast
+Neuroendocrine cell_ACPP high(AdultProstate2)	Neuroendocrine cell
+Neuron(AdultAdrenalGland20)	Neurocyte
+Neuron(AdultIleum17)	Neurocyte
+Neutrophil(AdultThyroid17)	Granulocyte
+Neutrophil _S100A8 high(AdultEsophagus20)	Granulocyte
+Neutrophil_CD177 high(AdultLiver17)	Granulocyte
+Neutrophil_DEFA3 high(AdultCerebellum25)	Granulocyte
+Neutrophil_DEFA3 high(AdultPeripheralBlood7)	Granulocyte
+Neutrophil_FCGR3B high(AdultCerebellum12)	Granulocyte
+Neutrophil_FCGR3B high(AdultCerebellum21)	Granulocyte
+Neutrophil_OLFM4 high(AdultSpleenParenchyma11)	Granulocyte
+Neutrophil_S100A12 high(AdultSpleenParenchyma6)	Granulocyte
+Neutrophil_S100P high(AdultOmentum6)	Granulocyte
+Neutrophil(AdultAdrenalGland9)	Granulocyte
+Neutrophil(AdultHeart6)	Granulocyte
+Neutrophil(AdultIleum12)	Granulocyte
+Neutrophil(AdultKidney15)	Granulocyte
+Neutrophil(AdultLiver11)	Granulocyte
+Neutrophil(AdultLung6)	Granulocyte
+NK cell(AdultAdrenalGland8)	NK cell
+NK cell(AdultPeripheralBlood13)	NK cell
+NoRefer(AdultStomach21)	unknown
+Oligodendrocyte progenitor cell(AdultCerebellum7)	Oligodendrocyte
+Oligodendrocyte(AdultCerebellum0)	Oligodendrocyte
+Oligodendrocyte(AdultCerebellum10)	Oligodendrocyte
+Paneth cell(AdultIleum14)	Paneth cell
+Parietal cell(AdultStomach15)	Gastric parietal cell
+Pericyte(AdultCerebellum14)	Pericyte
+Pit cell_MUC6 high(AdultStomach4)	Pit cell
+Pit cell_TFF2 high(AdultStomach5)	Pit cell
+Plasmacytoid dendritic cell(AdultPeripheralBlood10)	Plasmacytoid dendritic cell
+Plasmacytoid dendritic cell(AdultThyroid14)	Plasmacytoid dendritic cell
+Principle cell(AdultKidney16)	Principle cell
+Principle cell(AdultKidney6)	Principle cell
+Proliferating cell(AdultLung19)	Proliferating cell
+Proliferating cell(AdultMuscle12)	Proliferating cell
+Proliferating cell(AdultPeripheralBlood8)	Proliferating cell
+Proximal tubule cell_ALDOB high(AdultKidney14)	Proximal tubule cell
+Proximal tubule cell_MT1G high(AdultKidney10)	Proximal tubule cell
+Proximal tubule cell(AdultKidney1)	Proximal tubule cell
+Sinusoidal endothelial cell(AdultLiver10)	Endothelial cell
+Smooth muscle cell_ACTA2 high(AdultMuscle3)	Smooth muscle cell(general)
+Smooth muscle cell_MYL9 high(AdultUterus2)	Smooth muscle cell(general)
+Smooth muscle cell_TAGLN high(AdultAdrenalGland16)	Smooth muscle cell(general)
+Smooth muscle cell(AdultArtery8)	Vascular smooth muscle cell
+Smooth muscle cell(AdultCerebellum19)	Smooth muscle cell(general)
+Smooth muscle cell(AdultEsophagus19)	Esophageal smooth muscle cell
+Smooth muscle cell(AdultHeart1)	Smooth muscle cell(general)
+Smooth muscle cell(AdultHeart8)	Smooth muscle cell(general)
+Smooth muscle cell(AdultIleum16)	Gastrointestinal smooth muscle cell
+Smooth muscle cell(AdultKidney22)	Smooth muscle cell(general)
+Smooth muscle cell(AdultLiver19)	Gastrointestinal smooth muscle cell
+Smooth muscle cell(AdultLung14)	Smooth muscle cell(general)
+Smooth muscle cell(AdultPancreas6)	Gastrointestinal smooth muscle cell
+Smooth muscle cell(AdultProstate7)	Smooth muscle cell(general)
+Smooth muscle cell(AdultSigmoidColon11)	Gastrointestinal smooth muscle cell
+Smooth muscle cell(AdultStomach22)	Gastrointestinal smooth muscle cell
+Smooth muscle cell(AdultThyroid15)	Smooth muscle cell(general)
+Smooth muscle cell(AdultTransverseColon17)	Gastrointestinal smooth muscle cell
+Smooth muscle cell(AdultUterus6)	Smooth muscle cell(general)
+Stromal cell_APOD high(AdultAdrenalGland17)	Stromal cell
+Stromal cell_APOD high(AdultStomach1)	Stromal cell
+Stromal cell_CLEC3B high(AdultStomach10)	Stromal cell
+Stromal cell_CXCL14 high(AdultSigmoidColon12)	Stromal cell
+Stromal cell_DCN high(AdultSigmoidColon4)	Stromal cell
+Stromal cell_GPX3 high(AdultOmentum13)	Stromal cell
+Stromal cell_MFAP5 high(AdultOmentum11)	Stromal cell
+Stromal cell_PLA2G2A high(AdultEsophagus0)	Stromal cell
+Stromal cell_PTGDS high(AdultEsophagus1)	Stromal cell
+Stromal cell_PTGDS high(AdultIleum4)	Stromal cell
+Stromal cell(AdultEsophagus8)	Stromal cell
+Stromal cell(AdultOmentum0)	Stromal cell
+Stromal cell(AdultTransverseColon15)	Stromal cell
+Stromal cell(AdultUterus7)	Stromal cell
+T cell(AdultAdrenalGland19)	T cell
+T cell(AdultArtery10)	T cell
+T cell(AdultCerebellum18)	T cell
+T cell(AdultHeart7)	T cell
+T cell(AdultIleum8)	T cell
+T cell(AdultLung7)	T cell
+T cell(AdultMuscle5)	T cell
+T cell(AdultOmentum8)	T cell
+T cell(AdultPeripheralBlood6)	T cell
+T cell(AdultSigmoidColon2)	T cell
+T cell(AdultSpleenParenchyma9)	T cell
+T cell(AdultThyroid2)	T cell
+T cell(AdultTransverseColon12)	T cell
+Thyroid follicular cell(AdultThyroid0)	Thyroid follicular cell
+Thyroid follicular cell(AdultThyroid1)	Thyroid follicular cell
+Thyroid follicular cell(AdultThyroid13)	Thyroid follicular cell
+Thyroid follicular cell(AdultThyroid7)	Thyroid follicular cell
+Unknown Epithelial cell_FOS high(AdultProstate1)	Epithelial cell
+Unknown(AdultProstate0)	unknown
+Unknown(AdultSigmoidColon7)	unknown
+Ureteric Epithelial cell(AdultKidney26)	Epithelial cell
+Vascular endothelial cell(AdultLiver9)	Endothelial cell
+Ventricle cardiomyocyte(AdultHeart5)	Ventricle cardiomyocyte
+Zona fasciculata cell_GSTA1 high(AdultAdrenalGland4)	Zona fasciculata cell
+Zona fasciculata cell_GSTA1 high(AdultAdrenalGland7)	Zona fasciculata cell
+Zona fasciculata cell_HSD3B2 high(AdultAdrenalGland2)	Zona fasciculata cell
+Zona fasciculata cell_HSD3B2 high(AdultAdrenalGland3)	Zona fasciculata cell
+Mucosal aquamous Epithelial cell(AdultEsophagus3)	Epithelial cell
+Fibroblast(AdultOmentum5)	Fibroblast
+Exocrine cell_SAA1 high(AdultPancreas7)	Exocrine cell of pancrease
+T cell_IL7R high(AdultPeripheralBlood3)	T cell
+Intermediate Epithelial cell(AdultProstate3)	Epithelial cell
+Gastric chief cell_CHIA high(AdultStomach0)	Gastric chief cell
