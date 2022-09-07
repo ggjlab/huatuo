@@ -5,6 +5,19 @@ input_variant_file=${run_script_folder}"/example_data/input_variant.txt"
 anno_file=${run_script_folder}"/data/HCL_Cell_Cluster_Annatation.txt"
 XGBoost_modelslist=${run_script_folder}"/data/HCL_XGBoost_modelslist"
 
+while [ $# -ge 2 ]; do
+        case "$1" in
+                --input_variant_file)
+                        input_variant_file=$2; shift 2;;
+                --anno_file)
+                        anno_file=$2; shift 2;;
+                --XGBoost_modelslist)
+                        XGBoost_modelslist=$2; shift 2;;
+                *)
+                        echo "unknown input parameter!"; exit 1;;
+        esac
+done
+
 #------------ define internal path --------------#
 
 result_directory=${run_script_folder}"/result/"
