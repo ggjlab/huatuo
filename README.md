@@ -45,7 +45,7 @@ Huatuo.sh --input_variant_file example_data/input_variant.txt
 ## FAQs
 **Can I perform Huatuo analysis with other scRNA-seq data instead of HCL datasets?**
 
-**A:** We provide chromatin features of each 200-bp bin around ± the 20 kb genome regions centered on transcription start sites (TSSs) of each gene, which were predicted from a convolutional neural network (CNN) model, DeepSEA. This file features.npz can be downloaded [here](https://www.xxx.com). Based on it, you can train XGBoost prediction models for your own cell types by using prepared gene expression data and following train.py under the script directory.
+**A:** We provide chromatin features of each 200-bp bin around ± the 20 kb genome regions centered on transcription start sites (TSSs) of each gene, which were predicted from a convolutional neural network (CNN) model, DeepSEA. This file features.npz can be downloaded [here](http://bis.zju.edu.cn/huatuo/). Based on it, you can train XGBoost prediction models for your own cell types by using prepared gene expression data and following train.py under the script directory.
 
 The gene expression profiles used for training can be generated from single-cell transcriptome data by aggregating the average data from multiple cells in the same cell cluster. We suggest performing the Markov affinity-based graph imputation of cells (MAGIC) algorithm for imputation of the normalized single-cell expression matrix before cellular aggregation.
 
