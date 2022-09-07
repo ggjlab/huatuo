@@ -39,7 +39,7 @@ Note that the framework is originally developed from single-cell transcriptome d
 
 **Example:**
 ```
-Huatuo.sh --input_variant_file example_data/input_variant.txt
+./script/Huatuo.sh --input_variant_file example_data/input_variant.txt
 ```
 
 ## FAQs
@@ -52,7 +52,7 @@ The gene expression profiles used for training can be generated from single-cell
 Once all XGBoost regression models are trained, you can type the commands to explore the variant regulatory effects within specific cellular contexts:
 
 ```
-Huatuo.sh --input_variant_file input_variant.txt \
+./script/Huatuo.sh --input_variant_file input_variant.txt \
          --anno_file cell_cluster_annatation.txt \
          --XGBoost_modelslist XGBoost_modelslist
 ```
